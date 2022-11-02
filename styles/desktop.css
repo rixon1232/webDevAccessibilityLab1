@@ -71,7 +71,7 @@ td {
 }
 th {
   text-transform: uppercase;
-  border-bottom: 4px solid #000;
+  border-bottom: 4px solid rgb(230, 35, 35);
   background-color: #fff;
 }
 tr:nth-child(odd) {
